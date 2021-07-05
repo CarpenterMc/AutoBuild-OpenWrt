@@ -10,7 +10,7 @@ Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenW
 Hereby thank KFERMercer for his amazing job: https://github.com/KFERMercer/OpenWrt-CI  
 You could edit and enable "Sync Code" YAML file to let your forked repo keep updated.
 
-进入lede目录下./scripts/diffconfig.sh > diffconfig
+进入lede目录下./scripts/diffconfig.sh > diffconfig 
 将diffconfig下代码拷贝到工程下.config
 
 ## Usage
